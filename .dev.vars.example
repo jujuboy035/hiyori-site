@@ -1,0 +1,4 @@
+# Configure locally. Never commit real values.
+ACCOUNT_A_PIN=
+ACCOUNT_B_PIN=
+SESSION_EPOCH=
